@@ -32,3 +32,7 @@ Until _Auto DevTools_ is [made available](https://github.com/obsidianmd/obsidian
 6. Enable _Auto DevTools_ in Obsidian settings > Community plugins > Installed plugins.
 
 </details>
+
+## Support
+
+Found a bug or have a feature request? [Open an issue](https://github.com/churnish/auto-devtools/issues).
