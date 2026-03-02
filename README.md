@@ -13,6 +13,8 @@ Automatically open Developer Tools when Obsidian launches. Desktop only.
 
 ## Installation
 
+Until _Auto DevTools_ is [made available](https://github.com/obsidianmd/obsidian-releases/pull/10688) in the plugin directory, follow the steps below to install it:
+
 1. Download and enable the [BRAT](https://obsidian.md/plugins?id=obsidian42-brat) plugin.
 2. Run _Add a beta plugin for testing_ in the Command palette.
 3. Paste https://github.com/churnish/auto-devtools in the text field.
