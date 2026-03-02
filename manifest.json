@@ -1,0 +1,9 @@
+{
+	"id": "auto-devtools",
+	"name": "Auto DevTools",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Automatically open Developer Tools on Obsidian launch.",
+	"author": "churnish",
+	"isDesktopOnly": true
+}
