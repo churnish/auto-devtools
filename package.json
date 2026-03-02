@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "churnish",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "@eslint/js": "^9.39.3",
     "eslint": "^9.39.3",
