@@ -1,6 +1,6 @@
 {
   "name": "auto-devtools",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Automatically open Developer Tools on Obsidian launch.",
   "main": "main.js",
   "type": "module",
