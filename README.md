@@ -8,7 +8,7 @@ Automatically open Developer Tools when Obsidian launches. Desktop only.
 - Auto-open DevTools in popout windows
 - Optionally close DevTools on plugin unload
 - Toggle DevTools command
-- Open specific tab commands: Elements, Console, Sources, Network, Performance, Memory, Application, Lighthouse, Recorder
+- Commands to open specific tabs: Elements, Console, Sources, Network, Performance, Memory, Application, Lighthouse, Recorder
 - Configurable default tab
 
 ## Installation
