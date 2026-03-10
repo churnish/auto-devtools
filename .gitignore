@@ -1,8 +1,9 @@
-node_modules/
-.claude/
-
 * 2
 * 2.*
 
+.claude/
+node_modules/
+
 .DS_Store
 data.json
+package-lock.json

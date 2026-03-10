@@ -19,6 +19,7 @@ export default [
         clearTimeout: 'readonly',
         document: 'readonly',
         window: 'readonly',
+        MouseEvent: 'readonly',
       },
     },
     rules: {
@@ -27,7 +28,10 @@ export default [
       'obsidianmd/no-plugin-as-component': 'off',
       'obsidianmd/no-view-references-in-plugin': 'off',
       'obsidianmd/prefer-file-manager-trash-file': 'off',
-      'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+      'no-unused-vars': [
+        'error',
+        { argsIgnorePattern: '^_', caughtErrors: 'none' },
+      ],
     },
   },
   {
