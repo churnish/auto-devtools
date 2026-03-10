@@ -1,10 +1,9 @@
 # Auto DevTools
 
-Automatically open Developer Tools when Obsidian launches. Desktop only.
+Automatically open Developer Tools when Obsidian launches on desktop.
 
 ## Features
 
-- Auto-open DevTools on launch
 - Auto-open DevTools in popout windows
 - Optionally close DevTools on plugin unload
 - Toggle DevTools command
@@ -17,7 +16,7 @@ Until _Auto DevTools_ is [made available](https://github.com/obsidianmd/obsidian
 
 1. Download and enable the [BRAT](https://obsidian.md/plugins?id=obsidian42-brat) plugin.
 2. Run _Add a beta plugin for testing_ in the Command palette.
-3. Paste https://github.com/churnish/auto-devtools in the text field.
+3. Paste https://github.com/churnish/auto-devtools.
 4. Select _Latest version_.
 5. Check _Enable after installing the plugin_.
 6. Press _Add Plugin_.
@@ -35,4 +34,6 @@ Until _Auto DevTools_ is [made available](https://github.com/obsidianmd/obsidian
 
 ## Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/churnish/auto-devtools/issues).
+- Found a bug or have a feature request? [Open an issue](https://github.com/churnish/auto-devtools/issues).
+- Have a question? [Start a discussion](https://github.com/churnish/auto-devtools/discussions).
+- PRs welcome.
